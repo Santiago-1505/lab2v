@@ -65,3 +65,5 @@ class Lab2vApplicationTests {
 		assertEquals(20, aviationsLength);
 	}
 }
+
+
